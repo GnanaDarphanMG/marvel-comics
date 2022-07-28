@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./components/Header";
 import CharacterBar from "./components/CharacterBar";
 import ComicCard from "./components/ComicCard";
+import CheckBox from "./components/toggle";
 
 const App=()=>{
 
