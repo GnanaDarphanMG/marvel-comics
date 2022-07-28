@@ -1,18 +1,16 @@
 .carousel-container {
-    width: 70%;
-    display: flex;
-    flex-direction: column;
+    width: 900px;
 }
 
 .carousel-wrapper {
     display: flex;
-    width: 100%;
+    width: 900px;
     position: relative;
 }
 
 .carousel-content-wrapper {
     overflow: hidden;
-    width: 100%;
+    width: 900px;
     height: 80%;
 }
 

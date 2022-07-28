@@ -1,9 +1,0 @@
-.main
-{
-  display:flex; 
-  flex-direction: column;
-  justify-content: center;
-  align-items:stretch;
-  background-image: url(./components/image/background.jpg);
-  z-index:-1;
-}

@@ -4,7 +4,11 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; 
+  width: 1150px;
+
+  background-image: url(./components/image/background.jpg);
+  z-index:-1;
 }
 
 code {

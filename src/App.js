@@ -4,7 +4,6 @@ import Header from "./components/Header";
 import CharacterBar from "./components/CharacterBar";
 import ComicCard from "./components/ComicCard";
 
-
 const App=()=>{
 
     return(
