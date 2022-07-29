@@ -18,3 +18,14 @@
   border-radius: 50%;
 }
 
+.round-image{
+  border: solid 1px var(--primary-color);
+  margin: 0.5em;
+  width: 5em;
+  padding: 0.3rem;
+  box-shadow: 10px 10px 29px -19px rgba(0,0,0,0.75);
+    border-radius: 50%;
+  @media screen and (min-width:800px) {
+    width: 7em;
+  }
+}
